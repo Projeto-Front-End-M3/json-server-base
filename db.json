@@ -1,30 +1,22 @@
 {
   "users": [
     {
-      "email": "document.adm@mail.com",
-      "password": "$2a$10$rg3xtdFL5mUqva7CEaPymu1ZKn3qms64ezmJx2xBvUeXLaT6nU/Ee",
+      "email": "adm@mail.com",
+      "password": "$2a$10$NJNqzisIPLkDTWh0nVE5O.vQGaDn/t4P5cmXhVEmveu/wSvtBg1iO",
       "name": "ADM",
-      "id": 1,
+      "address": "",
       "isAdm": true,
-      "address": "Teste de Edição"
-    },
-    {
-      "email": "document.varela@mail.com",
-      "password": "$2a$10$82I49yJ7zhyVIP9tLyzlJ.jN6t5cfqwfDHb/6yrCR410QHyZVk8dy",
-      "name": "Krishna",
-      "address": "Teste de edição",
-      "isAdm": false,
-      "id": 2
+      "id": 1
     }
   ],
   "products": [
     {
       "id": 1,
       "name": "Guitarra Eletrica Fender",
-      "brand": "fender",
       "category": "Guitarra",
-      "img": "URL",
-      "value": 8722
+      "img": "/URL",
+      "price": 8722
     }
   ]
 }
+
