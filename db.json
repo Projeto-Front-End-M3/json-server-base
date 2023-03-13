@@ -7,16 +7,58 @@
       "address": "",
       "isAdm": true,
       "id": 1
+    },
+    {
+      "email": "user7@mail.com",
+      "password": "$2a$10$FP81Xa.FowFu/UG5R621cOIovB5xldNdUNlZkPv7ZUyK/HNXM48Qm",
+      "name": "user_07",
+      "address": "Teste",
+      "isAdm": false,
+      "id": 2
+    },
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$R3x5atHD6k8Yr7AGhNZzWePncIZP95hxrq2tqb/EIj..Ui5SXf8Sa",
+      "name": "teste",
+      "address": "Mudou",
+      "id": 3
+    },
+    {
+      "email": "teste2@mail.com",
+      "password": "$2a$10$Pwi997Ia0aYDffB8Cg9e..WlxTXegpcZ7ISwkespUiklv5VKVAkFi",
+      "name": "teste2",
+      "address": "esdereço de teste",
+      "id": 4
     }
   ],
   "products": [
     {
-      "id": 1,
-      "name": "Guitarra Eletrica Fender",
       "category": "Guitarra",
-      "img": "/URL",
-      "price": 8722
+      "img": "https://www.pngmart.com/files/16/Red-Guitar-Transparent-Background.png",
+      "price": 2200,
+      "name": "Guitarra Ibanez",
+      "id": 3
+    },
+    {
+      "category": "C.b",
+      "img": "https://img2.gratispng.com/20180803/ko/kisspng-ibanez-sr305e-bass-guitar-double-bass-ibanez-sr405eqm-5-string-electric-bass-quilted-ma-5b650ff3baa652.1737776415333498757645.jpg",
+      "price": 5999,
+      "name": "Contrabaixo",
+      "id": 4
+    },
+    {
+      "category": "Amplificador ",
+      "img": "https://img1.gratispng.com/20180528/je/kisspng-guitar-amplifier-fender-acoustasonic-150-acoustic-guitar-amp-5b0bb09b185aa9.1082578415274927630998.jpg",
+      "price": 2800,
+      "name": "Amplificador Fender",
+      "id": 6
+    },
+    {
+      "category": "Clarinete",
+      "img": "https://www.pngplay.com/wp-content/uploads/4/Flute-No-Background.png",
+      "price": 200,
+      "name": "Clarinete",
+      "id": 7
     }
   ]
 }
-
